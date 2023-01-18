@@ -7,7 +7,7 @@ A visualisation of bike accidents and bike infrastructure in Paris 2021
 </p>
 
 <p align="center">
-  <img src="media/bike_invest.png" alt="Accidents sans aménagement" width="100%"/>
+  <img src="media/bike_risk.png" alt="Accidents sans aménagement" width="100%"/>
 </p>
 
 <p align="center">
