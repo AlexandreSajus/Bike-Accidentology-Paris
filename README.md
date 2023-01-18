@@ -11,7 +11,7 @@ A visualisation of bike accidents and bike infrastructure in Paris 2021
 </p>
 
 <p align="center">
-  <img src="media/bike_injury.png" alt="Risque par Infrastructure" width="40%"/>
+  <img src="media/bike_injury.png" alt="Risque par Infrastructure" width="60%"/>
 </p>
 
 **Notes:**
